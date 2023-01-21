@@ -59,7 +59,7 @@
 <h3>My Stats :</h3>
 <div align="center">
   <img height="170em" alt="ardisyahputra12 stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardisyahputra12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" alt="ardisyahputra12 top-langs stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardisyahputra12&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" alt="ardisyahputra12 top-langs stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardisyahputra12&layout=compact&theme=algolia"/>
   <img height="190em" alt="ardisyahputra12 GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ardisyahputra12&theme=algolia&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
