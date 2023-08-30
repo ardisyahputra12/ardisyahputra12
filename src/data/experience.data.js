@@ -4,13 +4,15 @@ export const experiences = [
     organization: 'Universitas Mikroskil',
     title: 'Assistant Lecturer',
     year: 'Sep 2022 - Feb 2023',
-    other: 'Responsibility for : Back-End Web Development, Back-End Mobile Applications Development, Object-Oriented Design and Programming, Office Automation System',
+    tech: 'Back-End Web Development; Back-End Mobile Applications Development; OOP; Microsoft Office.',
+    responsibility: 'Preparing a practicum room; Assist and monitor students during practicum.',
   },
   {
     id: 2,
     organization: 'PT. Sumatra Sistem Digital',
     title: 'Frontend Developer',
-    year: 'Feb 2023 - Mei 2023',
-    other: 'Tech : Flutter, Web Components, Bootstrap',
+    year: 'Feb 2023 - May 2023',
+    tech: 'Flutter; Vanilla JS; Bootstrap.',
+    responsibility: 'Build mobile apps with Flutter; Build web apps with Vanilla Js.',
   },
 ]

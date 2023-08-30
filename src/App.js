@@ -13,7 +13,7 @@ export const App = () => {
   return (
     <div>
       <NavBar />
-      <div className='container' style={{ padding: "80px 8px 20px 8px" }}>
+      <div className='container' style={{ padding: "80px 12px 20px 12px" }}>
         <Routes>
           <Route path='/' element={<About />} />
           <Route path='/experience' element={<Experience />} />

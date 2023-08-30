@@ -13,16 +13,16 @@ export const About = () => {
           className='rounded-circle shadow' />
       </div>
       <div className='col-lg-6 pb-5'>
-        <h2 className='pb-4' style={{ fontSize: '48px', fontWeight: 700 }}>
+        <h2 className='pb-4' style={{ fontSize: '40px', fontWeight: 700 }}>
           Ardi Saputra
           <br />
-          <strong style={{ color: '#e74343', fontSize: '42px', fontWeight: 500 }}>
+          <strong style={{ color: '#e74343', fontSize: '34px', fontWeight: 500 }}>
             Fullstack Developer
           </strong>
         </h2>
         <p style={{ fontSize: '18px' }}>
-          Halo, this is my portfolio.
-          <br /> My passion is about software development and I like to coding. My skill in programming is started in 2020. I have studied round about frontend web development, backend development, and mobile development (android). I am a capable of teamwork, responsible, adaptable, and I am willing to learn new things.
+          Hello, this is my portfolio.
+          <br /> I am a software developer who has a willingness to learn new things, and is able to work individually as well as in teams. My journey in programming is started in 2020. I am able to build applications for web and mobile (Android) platforms, also build REST APIs.
         </p>
         <div>
           <Link to='https://github.com/ardisyahputra12' className='me-4'>

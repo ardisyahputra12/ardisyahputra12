@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 
-export const CardGeneral = ({ organization, title, year, website, other }) => {
+export const CardGeneral = ({ organization, title, year, website, tech, responsibility }) => {
   return (
     <div className='shadow rounded p-3 mb-4 d-flex flex-wrap justify-content-between align-items-center'>
       <div className='col-lg-7 col-md-7'>
@@ -9,10 +9,11 @@ export const CardGeneral = ({ organization, title, year, website, other }) => {
         <a href={website} target='_blank' rel="noreferrer" className='text-decoration-none'>
           <p style={{ color: '#e74343' }}>{organization}</p>
         </a>
-        <p>{other}</p>
+        <p><span className='fw-bold'>Tech:</span> {tech}</p>
+        <p><span className='fw-bold'>Responsibility:</span> {responsibility}</p>
       </div>
       <div className='col-lg-3 col-md-3 text-end'>
-        <p><strong>({year})</strong></p>
+        <time dateTime={year.split(' ')[year.split(' ').length - 1]}><strong>({year})</strong></time>
       </div>
     </div>
   )
@@ -23,5 +24,6 @@ CardGeneral.propTypes = {
   title: PropTypes.string.isRequired,
   year: PropTypes.string.isRequired,
   website: PropTypes.string,
-  other: PropTypes.string,
+  tech: PropTypes.string,
+  responsibility: PropTypes.string,
 }

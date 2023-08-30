@@ -16,7 +16,7 @@
 
 <h1>Holaa 👋 I'm Ardi, a Fullstack Developer from Indonesia</h1>
 <p>
-  My passion is about software development and I like to coding. My skill in programming world is started in 2020. I have studied round about frontend web development, frontend mobile development (android), and backend development. I am a capable of teamwork, responsible, adaptable, and I am willing to learn new things.
+  Hello, I am a software developer who has a willingness to learn new things, and is able to work individually as well as in teams. My journey in programming is started in 2020. I am able to build applications for web and mobile (Android) platforms, also build REST APIs.
 </p>
 <hr/>
 
