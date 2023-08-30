@@ -30,7 +30,8 @@ export const NavBar = () => {
           <NavItem title='Home' path='/' />
           <NavItem title='Experience' path='/experience' />
           <NavItem title='Education' path='/education' />
-          <NavItem title='Skills' path='/skill' />
+          <NavItem title='Skill' path='/skill' />
+          <NavItem title='Project' path='/project' />
           <NavItem title='Certificate' path='/certificate' />
           <NavItem title='Contact' path='/contact' />
         </Nav>
@@ -57,6 +58,9 @@ export const NavBar = () => {
               </div>
               <div className='border-bottom w-100 text-center pb-2 pt-2' onClick={handleClose}>
                 <NavItem title='Skill' path='/skill' />
+              </div>
+              <div className='border-bottom w-100 text-center pb-2 pt-2' onClick={handleClose}>
+                <NavItem title='Project' path='/project' />
               </div>
               <div className='border-bottom w-100 text-center pb-2 pt-2' onClick={handleClose}>
                 <NavItem title='Certificate' path='/certificate' />

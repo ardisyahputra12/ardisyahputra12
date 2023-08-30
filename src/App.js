@@ -8,6 +8,7 @@ import { Education } from './pages/Education'
 import { Skill } from './pages/Skill'
 import { Certificate } from './pages/Certificate'
 import { Contact } from './pages/Contact'
+import { Project } from './pages/Project'
 
 export const App = () => {
   return (
@@ -19,6 +20,7 @@ export const App = () => {
           <Route path='/experience' element={<Experience />} />
           <Route path='/education' element={<Education />} />
           <Route path='/skill' element={<Skill />} />
+          <Route path='/project' element={<Project />} />
           <Route path='/certificate' element={<Certificate />} />
           <Route path='/contact' element={<Contact />} />
         </Routes>

@@ -6,7 +6,7 @@ export const CardSquare = ({ organization, title, year, img, url }) => {
   return (
     <Card className='col-lg-3 col-md-5 m-3 text-dark'>
       <Card.Link href={url}>
-        <Card.Img variant="top" src={process.env.PUBLIC_URL + `/img/${img}`} alt={title} />
+        <Card.Img variant="top" src={process.env.PUBLIC_URL + `/img/${img}`} alt={title} style={{ maxHeight: '140px', objectFit: 'cover' }} />
       </Card.Link>
       <Card.Body className='d-flex flex-column justify-content-between'>
         <div>
