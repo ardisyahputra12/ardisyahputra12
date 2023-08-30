@@ -4,9 +4,6 @@
     <a href="https://github.com/ardisyahputra12/">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
     </a>
-    <a href="https://gitlab.com/ardisyahputra12">
-      <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
-    </a>
     <a href="https://www.linkedin.com/in/ardisaputra2022/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -14,10 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=ardisyahputra12&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>Holaa 👋 I'm Ardi, a Fullstack Developer from Indonesia</h1>
+<h1>Holaa 👋 I'm Ardi, Fullstack Developer from Indonesia</h1>
 <p>
   Hello, I am a software developer who has a willingness to learn new things, and is able to work individually as well as in teams. My journey in programming is started in 2020. I am able to build applications for web and mobile (Android) platforms, also build REST APIs.
 </p>
+<a href="https://ardisaputra-portfolio.vercel.app/" style="background-color: white; color: navy; border-radius: 4px; padding: 4px 12px;">My Website</a>
+<br/>
+<br/>
 <hr/>
 
 <h3>My Skills and Techs :</h3>
@@ -62,9 +62,6 @@
   <img height="170em" alt="ardisyahputra12 top-langs stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardisyahputra12&layout=compact&theme=algolia"/>
   <img height="190em" alt="ardisyahputra12 GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=ardisyahputra12&theme=algolia&date_format=j%20M%5B%20Y%5D"/>
 </div>
-
-
-
 
 <!--
 **ardisyahputra12/ardisyahputra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
