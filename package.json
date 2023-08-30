@@ -1,6 +1,8 @@
 {
   "name": "assignment3",
   "version": "0.1.0",
+  "author": "ardi_saputra <ardisaputraa12@gmail.com>",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
