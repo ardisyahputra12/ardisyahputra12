@@ -127,4 +127,12 @@ export const certificates = [
     img: 'dicoding-FE-fundamental.png',
     url: 'https://www.dicoding.com/certificates/0LZ09J853Z65',
   },
+  {
+    id: 17,
+    organization: 'Dicoding',
+    title: 'Belajar Dasar Manajemen Proyek',
+    year: 'Sep 2023 - Sep 2026',
+    img: 'dicoding-FE-fundamental.png',
+    url: 'https://www.dicoding.com/certificates/JMZV12513XN9',
+  },
 ]
