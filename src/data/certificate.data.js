@@ -135,4 +135,12 @@ export const certificates = [
     img: 'dicoding-FE-fundamental.png',
     url: 'https://www.dicoding.com/certificates/JMZV12513XN9',
   },
+  {
+    id: 18,
+    organization: 'Dicoding',
+    title: 'Memulai Dasar Pemrograman untuk Menjadi Pengembang Software',
+    year: 'Sep 2023 - Sep 2026',
+    img: 'dicoding-FE-fundamental.png',
+    url: 'https://www.dicoding.com/certificates/EYX4Y65OOZDL',
+  },
 ]
