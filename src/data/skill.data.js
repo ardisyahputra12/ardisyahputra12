@@ -88,34 +88,40 @@ export const skills = {
       color: '#FFF',
       bg: '#07405E'
     },
+    {
+      id: 15,
+      name: 'MongoDB',
+      color: '#FFF',
+      bg: '#404D59'
+    },
   ],
   util: [
     {
-      id: 15,
+      id: 16,
       name: 'WebpackJs',
       color: '#FFF',
       bg: '#0db7ed'
     },
     {
-      id: 16,
+      id: 17,
       name: 'Docker',
       color: '#FFF',
       bg: '#0db7ed'
     },
     {
-      id: 17,
+      id: 18,
       name: 'Git',
       color: '#FFF',
       bg: '#E44C30'
     },
     {
-      id: 18,
+      id: 19,
       name: 'CI/CD',
       color: '#FFF',
       bg: '#404D59'
     },
     {
-      id: 19,
+      id: 20,
       name: 'Figma',
       color: '#FFF',
       bg: '#F24E1E'

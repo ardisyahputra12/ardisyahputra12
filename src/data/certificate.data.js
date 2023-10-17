@@ -143,4 +143,12 @@ export const certificates = [
     img: 'dicoding-FE-fundamental.png',
     url: 'https://www.dicoding.com/certificates/EYX4Y65OOZDL',
   },
+  {
+    id: 19,
+    organization: 'Dicoding',
+    title: 'Belajar Dasar Structured Query Language (SQL)',
+    year: 'Sep 2023 - Sep 2026',
+    img: 'dicoding-FE-fundamental.png',
+    url: 'https://www.dicoding.com/certificates/1OP81W798ZQK',
+  },
 ]
