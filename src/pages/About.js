@@ -22,7 +22,7 @@ export const About = () => {
         </h2>
         <p style={{ fontSize: '18px' }}>
           Hello, this is my portfolio.
-          <br /> I am a software developer who has a willingness to learn new things, and is able to work individually as well as in teams. My journey in programming is started in 2020. I am able to build applications for web and mobile (Android) platforms, also build REST APIs.
+          <br /> I am a software developer who has a willingness to learn new things, and is able to work individually as well as in teams. My journey in programming is started in 2020. I am able to build applications for web and mobile (Android) platforms, also build APIs.
         </p>
         <div>
           <Link to='https://github.com/ardisyahputra12' className='me-4'>

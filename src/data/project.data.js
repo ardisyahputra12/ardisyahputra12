@@ -127,4 +127,12 @@ export const projects = [
     img: 'project-alquran-mahabbah.png',
     url: 'https://alquran-mahabbah.vercel.app',
   },
+  {
+    id: 17,
+    organization: 'Personal',
+    title: 'Library App',
+    year: 'Tech : Docker; Flask; PostgreSql; Vanilla Js; Tailwind.',
+    img: 'project-library-app.png',
+    url: 'https://github.com/ardisyahputra12/library-app/tree/main/docs',
+  },
 ]
