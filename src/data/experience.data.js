@@ -12,7 +12,7 @@ export const experiences = [
     organization: 'PT. Sumatra Sistem Digital',
     title: 'Frontend Developer',
     year: 'Feb 2023 - May 2023',
-    other: 'Tech : Flutter; Vanilla JS; Bootstrap.',
+    other: 'Tech : Flutter; Javascript; Bootstrap.',
     other2: 'Responsibility : Build mobile apps with Flutter; Build web apps with Vanilla Js.',
   },
   {

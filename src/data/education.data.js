@@ -6,7 +6,7 @@ export const educations = [
     year: '2020 - 2024',
     website: 'https://mikroskil.ac.id/',
     other: 'Activity : HMPS BITSMIKRO & UKM KMI',
-    other2: 'Provisional GPA : 3.83',
+    other2: 'GPA : 3.84',
   },
   {
     id: 2,
